@@ -1,5 +1,5 @@
 # Academic Learning Projects
 
-This repository contains academic learning projects from the Informatics study program at ITK.
+Repositori ini berisi proyek-proyek pembelajaran akademik yang saya dapatkan selama kuliah di program studi Informatika ITK.
 
-> Note: These projects are created for learning and academic purposes.
+> Catatan: Proyek-proyek ini dibuat hanya untuk tujuan pembelajaran dan akademik.
