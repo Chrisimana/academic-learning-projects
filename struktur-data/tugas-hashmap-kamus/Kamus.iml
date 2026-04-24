@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- Deklarasi XML dengan versi 1.0 dan encoding UTF-8 -->
+<module type="JAVA_MODULE" version="4"> <!-- Mendefinisikan modul Java dengan tipe JAVA_MODULE versi 4 -->
+  <component name="NewModuleRootManager" inherit-compiler-output="true"> <!-- Komponen untuk mengelola root modul, mewarisi output compiler -->
+    <exclude-output /> <!-- Mengecualikan folder output dari modul -->
+    <content url="file://$MODULE_DIR$"> <!-- Menentukan konten modul dengan URL ke direktori modul -->
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" packagePrefix="Kamus" /> <!-- Menentukan folder source dengan package prefix Kamus -->
+    </content>
+    <orderEntry type="inheritedJdk" /> <!-- Menggunakan JDK yang diwarisi dari project -->
+    <orderEntry type="sourceFolder" forTests="false" /> <!-- Menentukan folder source untuk kode non-test -->
+  </component>
+</module>
