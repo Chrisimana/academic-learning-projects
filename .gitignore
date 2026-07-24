@@ -1,0 +1,16 @@
+# Java build output
+build/
+target/
+bin/
+out/
+*.class
+
+# IDE project files
+.idea/
+.vscode/
+*.iml
+nbproject/private/
+
+# OS junk
+Thumbs.db
+.DS_Store
